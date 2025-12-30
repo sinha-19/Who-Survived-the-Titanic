@@ -447,9 +447,9 @@ Created as a machine learning project demonstrating:
 - Model deployment and serving
 
 For questions or collaboration:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@sinha-19](https://github.com/sinha-19)
+- LinkedIn: [Saket Kumar Sinha](https://linkedin.com/in/saketkumarsinha19)
+- Email: imsaket123@gmail.com
 
 ---
 
